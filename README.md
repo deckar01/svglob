@@ -8,8 +8,7 @@ The software for some cutting machines (_cough Cricut_) is picky about lines
 being defined as a single shape. If they are separate paths the software
 will try to rearrange them when plotting.
 
-Also, the Shaper Utilities add-in for Fusion 360 injects a bunch of metadata
-into the SVG file that this tool removes. This also resets the line thickness
+This also resets the line thickness
 which Shaper makes so thick that the Cricut preview is unreadable.
 
 ## Problems?
